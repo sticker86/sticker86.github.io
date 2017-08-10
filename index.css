@@ -1,0 +1,25 @@
+body {
+  color:blue;
+  font-size:20px;
+  background:#FFFF33;
+  text-align:center;
+}
+.first-group{
+  color:green;
+}
+
+.last-group{
+  color:red;
+}
+
+#important{
+  font-size:30px;
+}
+
+h1{
+  color:red;
+}
+
+.my-diary{
+  color:purple;
+}
